@@ -1,101 +1,209 @@
 <div align="center">
 
-<h1 align="center">Hi 👋, I'm Sagar Aryaman</h1>
-<h3 align="center">A passionate Fullstack Developer from India, crafting scalable and intelligent web applications.</h3>
+# 👋 Hi there! I'm Sagar Aryaman
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+AI+Enthusiast;Crafting+Scalable+Web+Applications;Building+the+Future+with+Code" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=Aryaman-leo&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
+---
+
 ## 🚀 About Me
 
-I'm a Fullstack Developer with a strong foundation in building and deploying modern web applications. My expertise lies in creating scalable backend services with Python (FastAPI, Django) and dynamic, responsive frontends using React.js. I'm particularly interested in the intersection of web development and artificial intelligence, with hands-on experience in building RAG pipelines, implementing vector search with ChromaDB, and leveraging microservices architecture.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working as a **Fullstack Developer** at [Jobauto.AI](https://jobauto.ai/), where I build AI-powered agents and scalable backend systems.
-- 🌱 I’m currently learning more about **advanced AI/ML model integration** and **serverless architectures**.
-- 👯 I’m looking to collaborate on **open-source AI projects** or innovative web applications.
-- 💬 Ask me about **Python, JavaScript, FastAPI, React, Microservices, or RAG pipelines**.
-- 📫 How to reach me: **sagar.aryamann@gmail.com**
-- 📄 Know more about my experiences: [My Resume](https://aryamann-portfolio.netlify.app/images/Sagar_Aryaman_updatedResume.pdf)
+```javascript
+const sagar = {
+    pronouns: "He/Him",
+    location: "India 🇮🇳",
+    currentRole: "Fullstack Developer @ Jobauto.AI",
+    passions: ["AI Integration", "Scalable Architecture", "Open Source"],
+    currentlyLearning: ["Advanced AI/ML", "Serverless Architecture"],
+    collaborateOn: ["AI Projects", "Web Applications", "Open Source"],
+    askMeAbout: ["Python", "JavaScript", "FastAPI", "React", "RAG Pipelines"],
+    funFact: "I debug with console.log and I'm not ashamed! 😄"
+};
+```
 
-## 💻 Tech Stack
+- 🔭 Currently building **AI-powered agents** and **scalable backend systems**
+- 🌱 Exploring **advanced AI/ML model integration** and **serverless architectures**
+- 👯 Open to collaborate on **open-source AI projects** and **innovative web apps**
+- 💬 Let's talk about **Python, JavaScript, FastAPI, React, Microservices, RAG pipelines**
+- 📫 Reach me at: **sagar.aryamann@gmail.com**
+- 📄 Check out my [**Resume**](https://aryamann-portfolio.netlify.app/images/Sagar_Aryaman_updatedResume.pdf)
 
-<p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-</p>
+---
 
-## 📊 GitHub Stats
+## 💻 Tech Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryaman-leo&show_icons=true&theme=radical" alt="Sagar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaman-leo&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
 
-## 🚀 My Projects
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,fastapi,django,html,css" />
+
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,aws,docker,git,github" />
+
+### Tools & Others
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,vscode,postman,linux" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryaman-leo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaman-leo&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryaman-leo&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryaman-leo&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Hive Task Manager App</h3>
-<div align="center">
-<p>A sophisticated Flutter-based task management app demonstrating clean architecture, CRUD operations, and local data persistence using the Hive database.</p>
-<p><b>Tech Stack:</b> Flutter, Dart, HiveDB.</p>
-<a href="https://github.com/Aryaman-leo/Hive-Task-Manager-App" target="_blank">View Project</a>
+<h3 align="center">🎯 Hive Task Manager App</h3>
+<div align="center">  
+<a href="https://github.com/Aryaman-leo/Hive-Task-Manager-App" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryaman-leo&repo=Hive-Task-Manager-App&theme=tokyonight" />
+</a>
+<br><br>
+<p><strong>🛠️ Built with:</strong></p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hive-FF6B6B?style=for-the-badge&logo=hive&logoColor=white"/>
+<br><br>
+<p>🔥 A sophisticated Flutter-based task management app with clean architecture, CRUD operations, and local data persistence.</p>
 </div>
 </td>
+
 <td width="50%">
-<h3 align="center">Sensex Stock Fetcher</h3>
+<h3 align="center">📈 Sensex Stock Fetcher</h3>
 <div align="center">
-<p>A real-time financial data visualization dashboard that fetches and displays live stock market data for all 30 Sensex companies using the Yahoo Finance API.</p>
-<p><b>Tech Stack:</b> Python, Streamlit, yfinance, Pandas.</p>
-<a href="https://github.com/Aryaman-leo/Sensex-fetcher" target="_blank">View Project</a>
-</div>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<h3 align="center">AIM Homoeopathy Research Journal</h3>
-<div align="center">
-<p>A professional website for a research journal, designed to be responsive and user-friendly for showcasing publications and articles.</p>
-<p><b>Tech Stack:</b> HTML5, CSS3, JavaScript, Bootstrap.</p>
-<a href="https://aimjhm.com/" target="_blank">View Website</a>
+<a href="https://github.com/Aryaman-leo/Sensex-fetcher" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryaman-leo&repo=Sensex-fetcher&theme=tokyonight" />
+</a>
+<br><br>
+<p><strong>🛠️ Built with:</strong></p>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<br><br>
+<p>📊 Real-time financial dashboard displaying live stock data for all 30 Sensex companies using Yahoo Finance API.</p>
 </div>
 </td>
 </tr>
 </table>
 
-## 💼 Work Experience
+### 🌐 AIM Homoeopathy Research Journal
+<div align="center">
+<a href="https://aimjhm.com/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Visit_Live_Site-00D4AA?style=for-the-badge&logoColor=white"/>
+</a>
+<br><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<br><br>
+<p>🏥 Professional research journal website with responsive design for showcasing medical publications and articles.</p>
+</div>
 
--   **Founding Engineer** @ [Stealth Startup] _(June 2025 – Present)_
-    -   Developed scalable backend APIs using Python (FastAPI) and MongoDB with an MRS architecture.
-    -   Built a responsive, dynamic UI in React.js with Tailwind CSS for AI agent creation and management.
-    -   Implemented secure JWT authentication, real-time chat via WebSockets, and deployed the full-stack application on AWS using Docker and CI/CD pipelines.
+</div>
 
--   **Fullstack Developer Intern** @ GreatZed tech Pvt. Ltd. _(April 2025 – June 2025)_
-    -   Developed UI for LLM-powered platforms by integrating React with Django backends.
-    -   Utilized ChromaDB for vector search and built AI-driven HR tools within a microservices architecture.
+---
 
--   **Frontend Developer** @ [AIM Homeopathy](https://aimhomoeopathy.com/) _(Jan 2023 – April 2025)_
-    -   Developed a full-featured learning and testing platform using HTML5, CSS3, JavaScript, and Bootstrap.
-    -   Integrated with a Spring Boot backend and used libraries like PDF.js and Chart.js for rich content visualization.
+## 💼 Professional Journey
 
-## 🏆 Certifications & Achievements
+<div align="center">
 
--   **AR/VR App Development Course** from **IHUB Divya Sampark – IIT Roorkee**.
--   Secured **3rd Place (AIR 3rd)** at **E-Summit’23, IIT Bombay**, showcasing entrepreneurial skills and innovative ideas.
+```mermaid
+timeline
+    title My Career Timeline
+    2023 : Frontend Developer @ AIM Homeopathy
+         : Built learning platform with HTML5, CSS3, JS
+         : Integrated with Spring Boot backend
+    2025 : Fullstack Developer Intern @ GreatZed tech
+         : Developed LLM-powered platforms
+         : Worked with ChromaDB and microservices
+    2025 : Founding Engineer @ Stealth Startup
+         : Built scalable APIs with FastAPI
+         : Deployed full-stack apps on AWS
+```
 
-## 🔗 Connect with me
+</div>
 
-<p align="left">
-<a href="https://linkedin.com/in/sagar-aryaman-4820811a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-aryaman-4820811a9" height="30" width="40" /></a>
-<a href="https://aryamann-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/briefcase.png" alt="Portfolio" height="30" width="30" /></a>
-</p>
+### 🎯 Current Role - Founding Engineer @ Stealth Startup _(June 2025 – Present)_
+- 🚀 Developed scalable backend APIs using **Python (FastAPI)** and **MongoDB**
+- 🎨 Built responsive, dynamic UI in **React.js** with **Tailwind CSS**
+- 🔐 Implemented secure **JWT authentication** and real-time chat via **WebSockets**
+- ☁️ Deployed full-stack applications on **AWS** using **Docker** and **CI/CD pipelines**
+
+### 🔬 Fullstack Developer Intern @ GreatZed tech _(April 2025 – June 2025)_
+- 🤖 Developed UI for **LLM-powered platforms** integrating **React** with **Django**
+- 🔍 Utilized **ChromaDB** for vector search in **microservices architecture**
+- 🧠 Built **AI-driven HR tools** and recruitment platforms
+
+### 💻 Frontend Developer @ AIM Homeopathy _(Jan 2023 – April 2025)_
+- 📚 Developed full-featured **learning and testing platform**
+- 🔧 Integrated with **Spring Boot** backend using **HTML5, CSS3, JavaScript, Bootstrap**
+- 📊 Used **PDF.js** and **Chart.js** for rich content visualization
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+| 🎖️ Achievement | 🏢 Organization | 📅 Year |
+|:---|:---|:---:|
+| **3rd Place (AIR 3rd)** | E-Summit'23, IIT Bombay | 2023 |
+| **AR/VR App Development** | IHUB Divya Sampark – IIT Roorkee | 2023 |
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryaman-leo&theme=tokyonight" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-aryaman-4820811a9)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aryamann-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagar.aryamann@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+### 💭 "Code is poetry written in logic" 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%9A%A1;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer Typing SVG" />
+
+</div>
