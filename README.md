@@ -14,7 +14,7 @@ I'm a Fullstack Developer with a strong foundation in building and deploying mod
 - 👯 I’m looking to collaborate on **open-source AI projects** or innovative web applications.
 - 💬 Ask me about **Python, JavaScript, FastAPI, React, Microservices, or RAG pipelines**.
 - 📫 How to reach me: **sagar.aryamann@gmail.com**
-- 📄 Know more about my experiences: [My Resume](c:\Users\sagar\Desktop\temp\Sagar_Resume.pdf)
+- 📄 Know more about my experiences: [My Resume](https://aryamann-portfolio.netlify.app/images/Sagar_Aryaman_updatedResume.pdf)
 
 ## 💻 Tech Stack
 
@@ -63,7 +63,7 @@ I'm a Fullstack Developer with a strong foundation in building and deploying mod
 </tr>
 <tr>
 <td colspan="2">
-<h3 align="center">Domus Homoeopathy Research Journal</h3>
+<h3 align="center">AIM Homoeopathy Research Journal</h3>
 <div align="center">
 <p>A professional website for a research journal, designed to be responsive and user-friendly for showcasing publications and articles.</p>
 <p><b>Tech Stack:</b> HTML5, CSS3, JavaScript, Bootstrap.</p>
