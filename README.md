@@ -160,9 +160,12 @@ timeline
 - 🧠 Built **AI-driven HR tools** and recruitment platforms
 
 ### 💻 Frontend Developer @ AIM Homeopathy _(Jan 2023 – April 2025)_
-- 📚 Developed full-featured **learning and testing platform**
-- 🔧 Integrated with **Spring Boot** backend using **HTML5, CSS3, JavaScript, Bootstrap**
-- 📊 Used **PDF.js** and **Chart.js** for rich content visualization
+- 🏫 Developed **full-featured learning and testing platform** using **HTML5, CSS3, JavaScript, Bootstrap** for seamless student experience
+- ⚙️ Integrated **Spring Boot backend** and implemented version control with **Git** for collaborative development
+- 📊 Utilized **PDF.js, Chart.js, Canvas.js, Bootstrap Data Tables** to enrich educational content and analytics visualizations
+- 🔄 Implemented robust **API integrations** for real-time data flow and dynamic content delivery across modules
+- 🔒 Conducted rigorous **performance optimization** and **security testing** for platform reliability and data protection
+- 📚 Built comprehensive **research journal website** for showcasing medical publications and articles
 
 ---
 
