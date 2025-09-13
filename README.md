@@ -75,7 +75,7 @@ I'm a Fullstack Developer with a strong foundation in building and deploying mod
 
 ## 💼 Work Experience
 
--   **Fullstack Developer** @ [Jobauto.AI](https://jobauto.ai/) _(June 2025 – Present)_
+-   **Founding Engineer** @ [Stealth Startup] _(June 2025 – Present)_
     -   Developed scalable backend APIs using Python (FastAPI) and MongoDB with an MRS architecture.
     -   Built a responsive, dynamic UI in React.js with Tailwind CSS for AI agent creation and management.
     -   Implemented secure JWT authentication, real-time chat via WebSockets, and deployed the full-stack application on AWS using Docker and CI/CD pipelines.
