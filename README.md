@@ -80,11 +80,11 @@ I'm a Fullstack Developer with a strong foundation in building and deploying mod
     -   Built a responsive, dynamic UI in React.js with Tailwind CSS for AI agent creation and management.
     -   Implemented secure JWT authentication, real-time chat via WebSockets, and deployed the full-stack application on AWS using Docker and CI/CD pipelines.
 
--   **Frontend Developer Intern** @ GreatZed tech Pvt. Ltd. _(April 2025 – June 2025)_
+-   **Fullstack Developer Intern** @ GreatZed tech Pvt. Ltd. _(April 2025 – June 2025)_
     -   Developed UI for LLM-powered platforms by integrating React with Django backends.
     -   Utilized ChromaDB for vector search and built AI-driven HR tools within a microservices architecture.
 
--   **Frontend Developer Intern** @ [AIM Homeopathy](https://aimhomoeopathy.com/) _(Jan 2023 – April 2025)_
+-   **Frontend Developer** @ [AIM Homeopathy](https://aimhomoeopathy.com/) _(Jan 2023 – April 2025)_
     -   Developed a full-featured learning and testing platform using HTML5, CSS3, JavaScript, and Bootstrap.
     -   Integrated with a Spring Boot backend and used libraries like PDF.js and Chart.js for rich content visualization.
 
