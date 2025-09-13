@@ -1,7 +1,5 @@
 <div align="center">
-<a href="https://github.com/Aryaman-leo">
 <img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding GIF" width="100%"/>
-</a>
 </div>
 
 <div id="header" align="center">
@@ -34,7 +32,7 @@ I'm a final-year Master's in Computer Applications student with a strong foundat
 
 👯 I’m looking to collaborate on open-source AI and full-stack projects.
 
-⚡ Fun fact: I placed 3rd at E-Summit'23 held by IIT Bombay!
+⚡ Fun fact: I proudly secured 3rd place at E-Summit'23, IIT Bombay!
 
 🛠️ My Tech Stack
 Here are the technologies I'm proficient in:
@@ -92,7 +90,7 @@ A full-stack application enabling users to create and interact with AI agents bu
 
 React, TailwindCSS, FastAPI, MongoDB, AWS, Docker, CI/CD
 
-Link (Private/Link from resume)
+(Private/Link from Resume)
 
 Sensex Fetcher
 
@@ -125,5 +123,5 @@ Email: Sagar.aryamann@gmail.com
 LinkedIn: sagar-aryaman-4820811a9
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DAryaman-leo%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="aryaman-leo" />
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DAryaman-leo%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="Profile views for Aryaman-leo" />
 </p>
