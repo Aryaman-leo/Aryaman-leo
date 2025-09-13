@@ -40,6 +40,62 @@ I'm a Fullstack Developer with a strong foundation in building and deploying mod
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaman-leo&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+## 🚀 My Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Jobauto.AI - AI Agent Platform</h3>
+<div align="center">
+<p>A full-stack platform for creating AI agents from text, files, and websites. Features a scalable backend with real-time chat capabilities and a dynamic React-based UI for agent management.</p>
+<p><b>Tech Stack:</b> Python, FastAPI, React.js, MongoDB, WebSockets, JWT, AWS, Docker, GitHub Actions.</p>
+<a href="https://github.com/Aryaman-leo/Jobauto.AI-BE" target="_blank">Backend Repo</a> | <a href="https://github.com/Aryaman-leo/Jobauto.AI-FE" target="_blank">Frontend Repo</a>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Hive Task Manager App</h3>
+<div align="center">
+<p>A sophisticated Flutter-based task management app demonstrating clean architecture, CRUD operations, and local data persistence using the Hive database.</p>
+<p><b>Tech Stack:</b> Flutter, Dart, HiveDB.</p>
+<a href="https://github.com/Aryaman-leo/Hive-Task-Manager-App" target="_blank">View Project</a>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Sensex Stock Fetcher</h3>
+<div align="center">
+<p>A real-time financial data visualization dashboard that fetches and displays live stock market data for all 30 Sensex companies using the Yahoo Finance API.</p>
+<p><b>Tech Stack:</b> Python, Streamlit, yfinance, Pandas.</p>
+<a href="https://github.com/Aryaman-leo/Sensex-fetcher" target="_blank">View Project</a>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Domus Homoeopathy Research Journal</h3>
+<div align="center">
+<p>A professional website for a research journal, designed to be responsive and user-friendly for showcasing publications and articles.</p>
+<p><b>Tech Stack:</b> HTML5, CSS3, JavaScript, Bootstrap.</p>
+<a href="https://github.com/Aryaman-leo/Domus-Homoeopathy-Research-Journal-Website" target="_blank">View Project</a>
+</div>
+</td>
+</tr>
+</table>
+
+## 💼 Work Experience
+
+-   **Fullstack Developer** @ [Jobauto.AI](https://jobauto.ai/) _(June 2025 – Present)_
+    -   Developed scalable backend APIs using Python (FastAPI) and MongoDB with an MRS architecture.
+    -   Built a responsive, dynamic UI in React.js with Tailwind CSS for AI agent creation and management.
+    -   Implemented secure JWT authentication, real-time chat via WebSockets, and deployed the full-stack application on AWS using Docker and CI/CD pipelines.
+
+-   **Frontend Developer Intern** @ GreatZed tech Pvt. Ltd. _(April 2025 – June 2025)_
+    -   Developed UI for LLM-powered platforms by integrating React with Django backends.
+    -   Utilized ChromaDB for vector search and built AI-driven HR tools within a microservices architecture.
+
+-   **Frontend Developer Intern** @ [AIM Homeopathy](https://aimhomoeopathy.com/) _(Jan 2023 – April 2025)_
+    -   Developed a full-featured learning and testing platform using HTML5, CSS3, JavaScript, and Bootstrap.
+    -   Integrated with a Spring Boot backend and used libraries like PDF.js and Chart.js for rich content visualization.
+
 ## 🔗 Connect with me
 
 <p align="left">
