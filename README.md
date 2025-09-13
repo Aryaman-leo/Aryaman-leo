@@ -14,7 +14,7 @@ I'm a Fullstack Developer with a strong foundation in building and deploying mod
 - 👯 I’m looking to collaborate on **open-source AI projects** or innovative web applications.
 - 💬 Ask me about **Python, JavaScript, FastAPI, React, Microservices, or RAG pipelines**.
 - 📫 How to reach me: **sagar.aryamann@gmail.com**
-- 📄 Know more about my experiences: [My Resume](<REPLACE_WITH_YOUR_RESUME_LINK>)
+- 📄 Know more about my experiences: [My Resume](c:\Users\sagar\Desktop\temp\Sagar_Resume.pdf)
 
 ## 💻 Tech Stack
 
@@ -45,14 +45,6 @@ I'm a Fullstack Developer with a strong foundation in building and deploying mod
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Jobauto.AI - AI Agent Platform</h3>
-<div align="center">
-<p>A full-stack platform for creating AI agents from text, files, and websites. Features a scalable backend with real-time chat capabilities and a dynamic React-based UI for agent management.</p>
-<p><b>Tech Stack:</b> Python, FastAPI, React.js, MongoDB, WebSockets, JWT, AWS, Docker, GitHub Actions.</p>
-<a href="https://github.com/Aryaman-leo/Jobauto.AI-BE" target="_blank">Backend Repo</a> | <a href="https://github.com/Aryaman-leo/Jobauto.AI-FE" target="_blank">Frontend Repo</a>
-</div>
-</td>
-<td width="50%">
 <h3 align="center">Hive Task Manager App</h3>
 <div align="center">
 <p>A sophisticated Flutter-based task management app demonstrating clean architecture, CRUD operations, and local data persistence using the Hive database.</p>
@@ -60,8 +52,6 @@ I'm a Fullstack Developer with a strong foundation in building and deploying mod
 <a href="https://github.com/Aryaman-leo/Hive-Task-Manager-App" target="_blank">View Project</a>
 </div>
 </td>
-</tr>
-<tr>
 <td width="50%">
 <h3 align="center">Sensex Stock Fetcher</h3>
 <div align="center">
@@ -70,12 +60,14 @@ I'm a Fullstack Developer with a strong foundation in building and deploying mod
 <a href="https://github.com/Aryaman-leo/Sensex-fetcher" target="_blank">View Project</a>
 </div>
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td colspan="2">
 <h3 align="center">Domus Homoeopathy Research Journal</h3>
 <div align="center">
 <p>A professional website for a research journal, designed to be responsive and user-friendly for showcasing publications and articles.</p>
 <p><b>Tech Stack:</b> HTML5, CSS3, JavaScript, Bootstrap.</p>
-<a href="https://github.com/Aryaman-leo/Domus-Homoeopathy-Research-Journal-Website" target="_blank">View Project</a>
+<a href="https://aimjhm.com/" target="_blank">View Website</a>
 </div>
 </td>
 </tr>
@@ -96,8 +88,14 @@ I'm a Fullstack Developer with a strong foundation in building and deploying mod
     -   Developed a full-featured learning and testing platform using HTML5, CSS3, JavaScript, and Bootstrap.
     -   Integrated with a Spring Boot backend and used libraries like PDF.js and Chart.js for rich content visualization.
 
+## 🏆 Certifications & Achievements
+
+-   **AR/VR App Development Course** from **IHUB Divya Sampark – IIT Roorkee**.
+-   Secured **3rd Place (AIR 3rd)** at **E-Summit’23, IIT Bombay**, showcasing entrepreneurial skills and innovative ideas.
+
 ## 🔗 Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/sagar-aryaman-4820811a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-aryaman-4820811a9" height="30" width="40" /></a>
+<a href="https://aryamann-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/briefcase.png" alt="Portfolio" height="30" width="30" /></a>
 </p>
